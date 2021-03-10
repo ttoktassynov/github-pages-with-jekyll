@@ -1,4 +1,4 @@
-# Timur Toktassynov
+# About me
 
 I'm currently undertaking an MSc in Software Systems Engineering at University College London. I'm involved in a project where I contribute to developing an automatic program repair plugin for an IDE.
 
